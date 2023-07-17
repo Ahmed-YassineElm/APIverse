@@ -1,1 +1,7 @@
-
+streamlit==1.24.0
+python==3.10.8
+requests==2.31.0
+Pillow==9.5.0
+detectlanguage==1.5.0
+beautifulsoup4==4.12.2
+googletrans==3.0.0
