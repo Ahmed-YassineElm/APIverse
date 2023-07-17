@@ -76,13 +76,18 @@ elif option == 'User Guide':
     st.header("Choose the API you want to watch it's guide!")
     api=st.selectbox(
     'Select an API',
-    ('-----','Text Extractor + Summarizer/Translator 👁️‍🗨️📜🌐','Web Scraper + Summarizer 🕸️🕵️‍♂️📝', 'Translator +/- Text2Speech 🌐📜➡️🔊', 'Text Extractor + Text2Speech 👁️‍🗨️📜➡️🔊')
+    ('Home','Text Extractor + Summarizer/Translator 👁️‍🗨️📜🌐','Web Scraper + Summarizer 🕸️🕵️‍♂️📝', 'Translator +/- Text2Speech 🌐📜➡️🔊', 'Text Extractor + Text2Speech 👁️‍🗨️📜➡️🔊')
 )
     if api == 'Text Extractor + Summarizer/Translator 👁️‍🗨️📜🌐':
         video_file = open('media/OcrTranSumGuide.mp4', 'rb')
         video_bytes = video_file.read()
         st.video(video_bytes)
 
+    elif api == 'Home':
+        video_file = open('media/home.mp4', 'rb')
+        video_bytes = video_file.read()
+        st.video(video_bytes)
+        
     elif api == 'Web Scraper + Summarizer 🕸️🕵️‍♂️📝':
         video_file = open('media/ScaperSum.mp4', 'rb')
         video_bytes = video_file.read()
