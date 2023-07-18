@@ -8,6 +8,8 @@ Note: Most api's used are from rapidapi , you can get the direct link/full name 
 Note 2: Here's a quick video on how website looks and the different API's.  
 Note 3: You can view how the API's function in the media file.  
 
+<video width="640" height="360" controls>
+  <source src="media/home.mp4" type="video/mp4">
+</video>
 
-ttps://github.com/Ahmed-YassineElm/APIverse/assets/135356544/1a20b7e6-e49f-4eac-886d-c550ef9e8431
 
