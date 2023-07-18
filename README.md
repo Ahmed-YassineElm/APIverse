@@ -7,4 +7,7 @@ In order to run this project you need to:
 Note: Most api's used are from rapidapi , you can get the direct link/full name from the api functions.
 Note 2: Here's a quick video on how website looks and the different API's.  
 Note 3: You can view how the API's function in the media file.  
-https://github.com/Ahmed-YassineElm/APIverse/assets/135356544/1c07437c-5e72-4a88-9572-b5f787c53799
+
+
+[![Overview]]([http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://github.com/Ahmed-YassineElm/APIverse/assets/135356544/68d48d19-5379-4d41-bf8d-8e84536ade57)https://github.com/Ahmed-YassineElm/APIverse/assets/135356544/68d48d19-5379-4d41-bf8d-8e84536ade57)
+
